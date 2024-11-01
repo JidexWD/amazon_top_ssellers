@@ -12,20 +12,21 @@ A Case Study Project
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 ## Project Overview 
-  You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+  You are a jjunnior data analyst working for a busness intelligence company.you've been there for 6 mmonths, and your boss feels youare ready for more responsibility. he has asked you to lead a project for a brand neww client - he wants you tocarry out an analysis for a book store. they want you to use the amazon top 50 best sweller from 2009 to 2019 to provide insights for them to stock their inventory and maximize thier sales.
 ## Data Source
-  divy-tripdata
-  https://divvy-tripdata.s3.amazonaws.com/index.html
+  Amazon Top 50 best sellers
+  https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019
 ## Tools
-  jupyter notebook | Ms Excel 
+  Big Query sql | Ms Excel | Tableau
 ## Project Structure
   Data
   - Data Collection
-      ![image](https://github.com/user-attachments/assets/1af92dbf-bb7e-4eb5-98ab-59d422dfdcef)
+      ![image](https://github.com/user-attachments/assets/e5509fc2-a13f-4897-97ca-938294c08821)
+
 
   - Data Overview
     excel spread sheets was used in data overview to get he general understanding of the dataset
-    ![image](https://github.com/user-attachments/assets/57e44063-04da-4111-a306-aab84269026e)
+    
  
   - Data Transfromation
     
