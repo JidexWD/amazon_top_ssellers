@@ -26,13 +26,14 @@ A Case Study Project
 
   - Data Overview
     excel spread sheets was used in data overview to get he general understanding of the dataset
-    
+    ![Screenshot 2024-11-02 002015](https://github.com/user-attachments/assets/2084826f-f05f-4d02-ace5-443d797a1758)
+
  
   - Data Transfromation
+    big query's sql was used to perform data transformation. that transformatio can be performed easily with big query
+    ![image](https://github.com/user-attachments/assets/a2e910a0-529a-4ea2-9d95-ec948c3e77d8)
+
     
-    jupyter note book is used to perform the data transformation because we are using python to analyse this dataset 
-    python gives us a lot of flexibility when handling data
-    ![image](https://github.com/user-attachments/assets/90460f10-0d6b-412a-a79c-08149a6e742e)
 ## Data Analysis 
   jupyter note book is used to perform the data anlysis because we are using python to analyse this dataset 
   python gives us a lot of flexibility when handling data.
