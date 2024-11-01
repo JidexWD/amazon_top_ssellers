@@ -11,13 +11,16 @@ A Case Study Project
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
+  
 ## Project Overview 
   You are a jjunnior data analyst working for a busness intelligence company.you've been there for 6 mmonths, and your boss feels youare ready for more responsibility. he has asked you to lead a project for a brand neww client - he wants you tocarry out an analysis for a book store. they want you to use the amazon top 50 best sweller from 2009 to 2019 to provide insights for them to stock their inventory and maximize thier sales.
 ## Data Source
   Amazon Top 50 best sellers
   https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+  
 ## Tools
   Big Query sql | Ms Excel | Tableau
+  
 ## Project Structure
   Data
   - Data Collection
@@ -35,12 +38,12 @@ A Case Study Project
 
     
 ## Data Analysis 
-  jupyter note book is used to perform the data anlysis because we are using python to analyse this dataset 
-  python gives us a lot of flexibility when handling data.
+  analysis of the dataset was done with sql on the big query platform. sql is a perfect tool for carrying out data analysis and manupulation
   
-  ![image](https://github.com/user-attachments/assets/e98754df-9f83-4059-9489-fb035209d470)
+  ![image](https://github.com/user-attachments/assets/a653acf0-5945-46b8-b390-724a3b70685f)
+
   
-  in the image we can see how we can use jupyter notebook and python can perform analysis. the image shows     us   the calculation of the ride lenght in minutes.
+  in the image we can see how we can use jupyter notebook and python can perform analysis. the image shows     us   the calculation of the ride lenght in minutes
 
   here we convert the started at column and the ended at column to datetime format
   ![image](https://github.com/user-attachments/assets/426e2e7b-8e36-4c7b-85a4-ef2991a201f8)
