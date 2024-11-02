@@ -43,10 +43,33 @@ A Case Study Project
   ![image](https://github.com/user-attachments/assets/a653acf0-5945-46b8-b390-724a3b70685f)
 
   
-  in the image we can see how we can use jupyter notebook and python can perform analysis. the image shows     us   the calculation of the ride lenght in minutes
+  in the images below we can see a code snippet of how sql was used to analze the dataset 
 
-  here we convert the started at column and the ended at column to datetime format
-  ![image](https://github.com/user-attachments/assets/426e2e7b-8e36-4c7b-85a4-ef2991a201f8)
+  - genre analysis
+    ![image](https://github.com/user-attachments/assets/410a66b7-a853-4732-87e3-6a7977a995cd)
+      using genre and year colums to producee information about the dataset
+  
+ - price analysis 
+    ![image](https://github.com/user-attachments/assets/3ca8269f-d660-4a04-bffa-88140b2a5af4)
+    here we query for aerage prices of books, minimum orices, maximum prices of books sold.
+
+  - rating analysis 
+    ![image](https://github.com/user-attachments/assets/e334520b-5469-41e9-8b14-7d50f1065964)
+    this query is showing the rating distribution and correlaation with reviews
+
+  - author analysis 
+    ![image](https://github.com/user-attachments/assets/f7c1ac0d-e0c7-4400-963f-9ba030b6bb13)
+    this query shows top authors by appearance, frequncy and ratings 
+
+  - review impact analysis 
+    ![image](https://github.com/user-attachments/assets/880d716b-ce5d-4351-ae64-31c765dd2d00)
+    analyzes relationship between reviews and ratings 
+  
+
+  
+
+
+  
 ## Data Visualization
   - python can alaso be used to carry out data visualization    
     ![output_20_0](https://github.com/user-attachments/assets/67a589cf-6277-4ce5-ac91-dc308ab6f87f)
