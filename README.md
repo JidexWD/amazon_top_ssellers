@@ -13,7 +13,7 @@ A Case Study Project
 - [Limitations](#limitations)
   
 ## Project Overview 
-  You are a jjunnior data analyst working for a busness intelligence company.you've been there for 6 mmonths, and your boss feels youare ready for more responsibility. he has asked you to lead a project for a brand neww client - he wants you tocarry out an analysis for a book store. they want you to use the amazon top 50 best sweller from 2009 to 2019 to provide insights for them to stock their inventory and maximize thier sales.
+ You are a junior data analyst working for a business intelligence company. You've been with the company for six months, and your boss feels you are ready for more responsibility. He has asked you to lead a project for a new client—a bookstore. The client wants you to conduct an analysis using the Amazon Top 50 Bestsellers from 2009 to 2019 to provide insights that will help them stock their inventory and maximize sales.
 ## Data Source
   Amazon Top 50 best sellers
   https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019
